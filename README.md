@@ -5,7 +5,6 @@
 <h1/>
 <!--
 <img src="https://komarev.com/ghpvc/?username=josorio9111&style=flat-square&color=blue"/>
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 -->
 
