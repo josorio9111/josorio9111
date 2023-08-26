@@ -2,12 +2,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)
 
-<!--
-<img src="https://komarev.com/ghpvc/?username=josorio9111&style=flat-square&color=blue"/>
--->
-
 <h1/>
 <!--
+<img src="https://komarev.com/ghpvc/?username=josorio9111&style=flat-square&color=blue"/>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 -->
 
@@ -25,7 +23,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 ### :fire: My Stats :
-![](http://github-readme-streak-stats.herokuapp.com?user=josorio9111&theme=dark&background=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josorio9111&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josorio9111&layout=compact&theme=dark)
 
 ---
