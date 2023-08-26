@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi 👋
 
+![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)
+
+<h1/>
 <!--
-**josorio9111/josorio9111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 -->
+
+### :technologist: About Me :
+I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :cuba:.
+
+- :label: I’m working as a Mobile Developer and contributing to building beautiful applications.
+
+- :telescope: Always looking for the newest in mobile development.
+
+---
+### :heart: Favorite repositories :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josorio9111&repo=animated_text&theme=dark)](https://github.com/josorio9111/animated_text)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josorio9111&repo=aprendizaje&theme=dark)](https://github.com/josorio9111/aprendizaje)
+
+---
+### :fire: My Stats :
+![](http://github-readme-streak-stats.herokuapp.com?user=josorio9111&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josorio9111&layout=compact&theme=dark)
+
+---
+### :tipping_hand_person: Contact me:
+[<img src="https://img.shields.io/badge/telegram-@josorio91-blue">](https://t.me/josorio91)
+[<img src="https://img.shields.io/badge/email-josorio9111@gmail.com-red">](mailto:josorio9111@gmail.com)
