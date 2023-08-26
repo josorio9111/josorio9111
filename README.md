@@ -2,6 +2,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)
 
+<img src="https://komarev.com/ghpvc/?username=josorio9111&style=flat-square&color=blue"/>
+
 <h1/>
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
