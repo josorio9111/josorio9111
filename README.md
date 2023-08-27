@@ -3,20 +3,17 @@
 #
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 ---
 <!--
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)
 <img src="https://komarev.com/ghpvc/?username=josorio9111&style=flat-square&color=blue"/>
 -->
-
 ### :technologist: About Me :
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :cuba:.
 
 - :label: I’m working as a Mobile Developer and contributing to building beautiful applications.
 
 - :telescope: Always looking for the newest in mobile development.
-
 ---
 ### :heart: Favorite repositories :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josorio9111&repo=animated_text&theme=dark)](https://github.com/josorio9111/animated_text)
