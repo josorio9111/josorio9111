@@ -1,11 +1,13 @@
-### Hi 👋
+### Hi, I am Jose A. 👋
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)
+#
 
-<h1/>
-<!--
-<img src="https://komarev.com/ghpvc/?username=josorio9111&style=flat-square&color=blue"/>
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+---
+<!--
+![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)
+<img src="https://komarev.com/ghpvc/?username=josorio9111&style=flat-square&color=blue"/>
 -->
 
 ### :technologist: About Me :
