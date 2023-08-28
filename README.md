@@ -1,4 +1,4 @@
-### Hi, I am Jose A. 👋
+### Hi 👋, I am Jose A.
 
 #
 
