@@ -1,7 +1,6 @@
 ### Hi 👋, I am Jose A.
 
 #
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 ---
 <!--
@@ -15,7 +14,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: Always looking for the newest in mobile development.
 ---
-### :heart: Favorite repositories :
+### :heart: My favorite repositories :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josorio9111&repo=animated_text&theme=dark)](https://github.com/josorio9111/animated_text)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josorio9111&repo=aprendizaje&theme=dark)](https://github.com/josorio9111/aprendizaje)
 
